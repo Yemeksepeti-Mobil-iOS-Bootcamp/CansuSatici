@@ -1,2 +1,2 @@
-# week1-homeworks
-Cansu Satıcı
+# iOS-homeworks
+
